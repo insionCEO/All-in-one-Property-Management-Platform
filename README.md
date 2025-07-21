@@ -1,7 +1,3 @@
-[![GitHub Repo stars](https://img.shields.io/github/stars/eevan7a9/real-estate-management?style=social)](https://github.com/eevan7a9/real-estate-management/stargazers)
-[![License](https://img.shields.io/badge/License-Apache_License_2.0-blue.svg)](LICENSE)
-
-
 # real-estate-management
 
 A web and mobile property management solution built with Ionic, Angular and Nodejs Fastify.
